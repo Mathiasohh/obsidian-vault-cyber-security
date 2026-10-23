@@ -1,1 +1,0 @@
-Til små projekter til læring af Python og SQL, men vis tid og overskud, også C, C++, C#, HTML, CSS, Java, JavaScript, osv.

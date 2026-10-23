@@ -3,6 +3,8 @@ Up: "[[FF - Bog]]"
 ---
 # Indsigt og prioritering - Cyber- og informationssikkerheden skal gå i takt med den digitale udvikling
 
+[[Cybersikkerhed - Helt sikkert - En praktisk grundbog.pdf#page=75]]
+
 ## Resume
 
 
@@ -38,4 +40,3 @@ Fem områder der ville være gode at være enige om i forbindelse med cyber- og 
 	- Dokumenter IT-understøttelsen, så det er tydeligt, hvilke systemer, data og infrastrukturkomponenter der støtter opgaveløsningen i forretningsprocesserne. Her er det også vigtigt at se på afhængigheder til øvrige dele af organisationen. Dette munder ud i overblik over IT-arkitekturen.
 
 ![[FF - kap. 2 - Figur 2.2.png]]
-
