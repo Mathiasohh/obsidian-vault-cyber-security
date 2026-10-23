@@ -1,3 +1,0 @@
----
-Up: "[[NA - Materiale]]"
----
