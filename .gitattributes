@@ -1,0 +1,19 @@
+# Auto-detect text files and keep LF line endings (matches Obsidian's native LF format)
+* text=auto eol=lf
+
+# Obsidian & text files
+*.md text eol=lf
+*.canvas text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.txt text eol=lf
+*.svg text eol=lf
+
+# Binary files (do not modify bytes)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
